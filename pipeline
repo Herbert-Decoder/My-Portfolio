@@ -13,7 +13,7 @@ pipeline {
     }
     post {
 	    success {
-        publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, icon: '', keepAll: false, reportDir: 'https://github.com/Herbert-Decoder/My-Portfolio/blob/main/surefire.html', reportFiles: 'surefire.html', reportName: 'Sure-Fire Report', reportTitles: '', useWrapperFileDirectly: true])
+        publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, icon: '', keepAll: false, reportDir: 'target/surefire', reportFiles: 'surefire.html', reportName: 'SureFire-Report', reportTitles: '', useWrapperFileDirectly: true])
 	}
 }
 }
