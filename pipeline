@@ -1,0 +1,19 @@
+pipeline {
+    agent any
+    options	{
+	  buildDiscarder(logRotator(numToKeepStr: '5'))
+      }
+      stages {
+          stage ('Build') {
+              steps {
+                  sh './mvnw clean install site surefire-report:report'
+                  sh 'tree'
+            }
+         }
+    }
+    post {
+	    success {
+        publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, icon: '', keepAll: false, reportDir: 'https://github.com/Herbert-Decoder/My-Portfolio/blob/main/index.html', reportFiles: 'index.html', reportName: 'HTML Report', reportTitles: '', useWrapperFileDirectly: true])
+        }
+    }
+}
