@@ -1,0 +1,2167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="6108" it="0" lt="392" ct="172" ts="1741260613492" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="313387" sby="244" ng="10" na="30">
+  <httpSample t="402" it="0" lt="392" ct="172" ts="1741260613492" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5699" it="0" lt="2785" ct="1494" ts="1741260613901" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="312698" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6583" it="0" lt="741" ct="505" ts="1741260613175" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210701" sby="276" ng="10" na="30">
+  <httpSample t="741" it="0" lt="741" ct="505" ts="1741260613175" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-1" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5840" it="0" lt="3041" ct="1465" ts="1741260613918" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="209996" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6223" it="0" lt="354" ct="135" ts="1741260613606" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210685" sby="276" ng="10" na="30">
+  <httpSample t="354" it="0" lt="354" ct="135" ts="1741260613606" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-7" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5867" it="0" lt="3049" ct="1434" ts="1741260613962" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="209980" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6365" it="0" lt="365" ct="143" ts="1741260613521" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210687" sby="276" ng="10" na="30">
+  <httpSample t="374" it="0" lt="365" ct="143" ts="1741260613521" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-6" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5986" it="0" lt="3143" ct="1475" ts="1741260613900" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="209982" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6537" it="0" lt="555" ct="269" ts="1741260613404" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210742" sby="276" ng="10" na="30">
+  <httpSample t="555" it="0" lt="555" ct="269" ts="1741260613404" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-5" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5981" it="0" lt="3136" ct="1438" ts="1741260613960" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210037" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6278" it="0" lt="333" ct="135" ts="1741260613706" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210657" sby="276" ng="10" na="30">
+  <httpSample t="333" it="0" lt="333" ct="135" ts="1741260613706" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-8" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5944" it="0" lt="3100" ct="1357" ts="1741260614040" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="209952" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6066" it="0" lt="327" ct="142" ts="1741260613965" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210651" sby="276" ng="10" na="30">
+  <httpSample t="327" it="0" lt="327" ct="142" ts="1741260613965" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-10" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5737" it="0" lt="2875" ct="1116" ts="1741260614294" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="209946" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6858" it="0" lt="739" ct="457" ts="1741260613218" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210681" sby="276" ng="10" na="30">
+  <httpSample t="739" it="0" lt="739" ct="457" ts="1741260613218" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-3" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="6118" it="0" lt="3261" ct="1450" ts="1741260613958" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="209976" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6956" it="0" lt="771" ct="504" ts="1741260613176" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="210672" sby="276" ng="10" na="30">
+  <httpSample t="772" it="0" lt="771" ct="504" ts="1741260613176" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-2" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="6183" it="0" lt="3288" ct="1462" ts="1741260613949" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="209967" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6381" it="0" lt="317" ct="126" ts="1741260613807" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210659" sby="276" ng="10" na="30">
+  <httpSample t="317" it="0" lt="317" ct="126" ts="1741260613807" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-9" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="6063" it="0" lt="3177" ct="1281" ts="1741260614125" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="209954" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6606" it="0" lt="358" ct="129" ts="1741260613616" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="211229" sby="284" ng="10" na="30">
+  <httpSample t="358" it="0" lt="358" ct="129" ts="1741260613616" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-7" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6247" it="0" lt="3373" ct="1388" ts="1741260613975" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="210520" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="7057" it="0" lt="713" ct="451" ts="1741260613218" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="211260" sby="284" ng="10" na="30">
+  <httpSample t="713" it="0" lt="713" ct="451" ts="1741260613218" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-3" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6343" it="0" lt="3427" ct="1447" ts="1741260613932" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="210551" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6817" it="0" lt="433" ct="159" ts="1741260613521" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="211272" sby="284" ng="10" na="30">
+  <httpSample t="433" it="0" lt="433" ct="159" ts="1741260613521" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-6" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6383" it="0" lt="3459" ct="1448" ts="1741260613955" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="210563" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="7213" it="0" lt="798" ct="491" ts="1741260613175" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="211220" sby="284" ng="10" na="30">
+  <httpSample t="799" it="0" lt="798" ct="491" ts="1741260613175" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-1" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6412" it="0" lt="3479" ct="1427" ts="1741260613976" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="210511" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="7011" it="0" lt="514" ct="250" ts="1741260613418" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="211192" sby="284" ng="10" na="30">
+  <httpSample t="514" it="0" lt="514" ct="250" ts="1741260613418" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-5" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6496" it="0" lt="3554" ct="1467" ts="1741260613933" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="210483" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6676" it="0" lt="312" ct="141" ts="1741260613824" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="211212" sby="284" ng="10" na="30">
+  <httpSample t="312" it="0" lt="312" ct="141" ts="1741260613824" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-9" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6363" it="0" lt="3400" ct="1264" ts="1741260614137" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="210503" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="7286" it="0" lt="606" ct="349" ts="1741260613318" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="211344" sby="284" ng="10" na="30">
+  <httpSample t="606" it="0" lt="606" ct="349" ts="1741260613318" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-4" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6679" it="0" lt="3634" ct="1482" ts="1741260613925" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="210635" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="7588" it="0" lt="776" ct="494" ts="1741260613176" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="211264" sby="284" ng="10" na="30">
+  <httpSample t="776" it="0" lt="776" ct="494" ts="1741260613176" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-2" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6810" it="0" lt="3712" ct="1454" ts="1741260613954" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="210555" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="7381" it="0" lt="501" ct="281" ts="1741260613383" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="313424" sby="244" ng="10" na="30">
+  <httpSample t="512" it="0" lt="501" ct="281" ts="1741260613383" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6863" it="0" lt="2401" ct="1502" ts="1741260613901" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="312735" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="966" it="0" lt="566" ct="0" ts="1741260619945" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210651" sby="276" ng="10" na="30">
+  <httpSample t="566" it="0" lt="566" ct="0" ts="1741260619945" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-5" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="399" it="0" lt="270" ct="0" ts="1741260620512" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="209946" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="752" it="0" lt="233" ct="0" ts="1741260620277" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="211192" sby="284" ng="10" na="29">
+  <httpSample t="233" it="0" lt="233" ct="0" ts="1741260620277" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-3" dt="text" by="709" sby="142" ng="10" na="29">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="518" it="0" lt="405" ct="0" ts="1741260620511" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="210483" sby="142" ng="10" na="29">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="1366" it="0" lt="587" ct="0" ts="1741260619987" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210651" sby="276" ng="9" na="28">
+  <httpSample t="587" it="0" lt="587" ct="0" ts="1741260619987" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-8" dt="text" by="705" sby="138" ng="9" na="28">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="779" it="0" lt="505" ct="0" ts="1741260620574" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="209946" sby="138" ng="9" na="28">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="1067" it="0" lt="227" ct="0" ts="1741260620340" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="211230" sby="284" ng="9" na="27">
+  <httpSample t="227" it="0" lt="227" ct="0" ts="1741260620340" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-6" dt="text" by="709" sby="142" ng="9" na="27">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="840" it="0" lt="482" ct="0" ts="1741260620567" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="210521" sby="142" ng="9" na="27">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="1406" it="0" lt="580" ct="0" ts="1741260620034" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210651" sby="276" ng="8" na="26">
+  <httpSample t="580" it="0" lt="580" ct="0" ts="1741260620034" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-10" dt="text" by="705" sby="138" ng="8" na="26">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="825" it="0" lt="505" ct="0" ts="1741260620615" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="209946" sby="138" ng="8" na="26">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="1705" it="0" lt="191" ct="0" ts="1741260620431" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="211253" sby="284" ng="8" na="25">
+  <httpSample t="191" it="0" lt="191" ct="0" ts="1741260620431" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-5" dt="text" by="709" sby="142" ng="8" na="25">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="1514" it="0" lt="1291" ct="0" ts="1741260620622" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="210544" sby="142" ng="8" na="25">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2558" it="0" lt="1026" ct="0" ts="1741260619761" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210799" sby="276" ng="7" na="24">
+  <httpSample t="1027" it="0" lt="1026" ct="0" ts="1741260619761" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-1" dt="text" by="705" sby="138" ng="7" na="24">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1531" it="0" lt="1358" ct="0" ts="1741260620788" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210094" sby="138" ng="7" na="24">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="1851" it="0" lt="270" ct="0" ts="1741260620501" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="211374" sby="284" ng="7" na="23">
+  <httpSample t="270" it="0" lt="270" ct="0" ts="1741260620501" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-9" dt="text" by="709" sby="142" ng="7" na="23">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="1581" it="0" lt="1196" ct="0" ts="1741260620771" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="210665" sby="142" ng="7" na="23">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2327" it="0" lt="556" ct="0" ts="1741260620223" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="211192" sby="284" ng="6" na="22">
+  <httpSample t="556" it="0" lt="556" ct="0" ts="1741260620223" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-7" dt="text" by="709" sby="142" ng="6" na="22">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="1771" it="0" lt="1316" ct="0" ts="1741260620779" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="210483" sby="142" ng="6" na="22">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2741" it="0" lt="892" ct="0" ts="1741260619890" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210845" sby="276" ng="6" na="21">
+  <httpSample t="892" it="0" lt="892" ct="0" ts="1741260619890" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-6" dt="text" by="705" sby="138" ng="6" na="21">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1848" it="0" lt="1394" ct="0" ts="1741260620783" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210140" sby="138" ng="6" na="21">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="8700" it="0" lt="333" ct="139" ts="1741260613974" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="211268" sby="284" ng="5" na="20">
+  <httpSample t="333" it="0" lt="333" ct="139" ts="1741260613974" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-10" dt="text" by="709" sby="142" ng="5" na="20">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="8366" it="0" lt="3400" ct="1107" ts="1741260614308" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="210559" sby="142" ng="5" na="20">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2546" it="0" lt="639" ct="0" ts="1741260620134" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="210703" sby="276" ng="5" na="20">
+  <httpSample t="639" it="0" lt="639" ct="0" ts="1741260620134" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-2" dt="text" by="705" sby="138" ng="5" na="20">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1907" it="0" lt="1546" ct="0" ts="1741260620773" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="209998" sby="138" ng="5" na="20">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="2722" it="0" lt="596" ct="0" ts="1741260620189" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210674" sby="276" ng="4" na="19">
+  <httpSample t="596" it="0" lt="596" ct="0" ts="1741260620189" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-9" dt="text" by="705" sby="138" ng="4" na="19">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="2125" it="0" lt="1907" ct="0" ts="1741260620786" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="209969" sby="138" ng="4" na="19">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="2314" it="0" lt="210" ct="0" ts="1741260620605" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="211331" sby="284" ng="5" na="18">
+  <httpSample t="210" it="0" lt="210" ct="0" ts="1741260620605" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-4" dt="text" by="709" sby="142" ng="5" na="18">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2104" it="0" lt="1893" ct="0" ts="1741260620815" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="210622" sby="142" ng="5" na="18">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="9289" it="0" lt="316" ct="143" ts="1741260613719" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="211237" sby="284" ng="4" na="17">
+  <httpSample t="316" it="0" lt="316" ct="143" ts="1741260613719" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-8" dt="text" by="709" sby="142" ng="4" na="17">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="8972" it="0" lt="3573" ct="1378" ts="1741260614036" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="210528" sby="142" ng="4" na="17">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2940" it="0" lt="562" ct="0" ts="1741260620078" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210758" sby="276" ng="3" na="17">
+  <httpSample t="562" it="0" lt="562" ct="0" ts="1741260620078" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-3" dt="text" by="705" sby="138" ng="3" na="17">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="2378" it="0" lt="2362" ct="0" ts="1741260620640" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210053" sby="138" ng="3" na="17">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="2632" it="0" lt="227" ct="0" ts="1741260620388" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="211324" sby="284" ng="4" na="17">
+  <httpSample t="227" it="0" lt="227" ct="0" ts="1741260620388" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-1" dt="text" by="709" sby="142" ng="4" na="17">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2404" it="0" lt="862" ct="0" ts="1741260620616" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="210615" sby="142" ng="4" na="17">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="3389" it="0" lt="975" ct="0" ts="1741260619637" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="313285" sby="244" ng="10" na="15">
+  <httpSample t="975" it="0" lt="975" ct="0" ts="1741260619637" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="689" sby="122" ng="10" na="15">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="2414" it="0" lt="790" ct="0" ts="1741260620612" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="312596" sby="122" ng="10" na="15">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="2435" it="0" lt="834" ct="0" ts="1741260620765" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="313328" sby="244" ng="9" na="14">
+  <httpSample t="834" it="0" lt="834" ct="0" ts="1741260620765" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="689" sby="122" ng="9" na="14">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="1600" it="0" lt="1432" ct="0" ts="1741260621600" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="312639" sby="122" ng="9" na="14">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="2630" it="0" lt="1091" ct="0" ts="1741260620765" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="211245" sby="284" ng="3" na="13">
+  <httpSample t="1091" it="0" lt="1091" ct="0" ts="1741260620765" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-2" dt="text" by="709" sby="142" ng="3" na="13">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="1538" it="0" lt="1424" ct="0" ts="1741260621857" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="210536" sby="142" ng="3" na="13">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="9772" it="0" lt="327" ct="139" ts="1741260613700" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="313263" sby="244" ng="8" na="12">
+  <httpSample t="327" it="0" lt="327" ct="139" ts="1741260613700" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="689" sby="122" ng="8" na="12">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="9444" it="0" lt="2714" ct="1385" ts="1741260614028" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="312574" sby="122" ng="8" na="12">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="10197" it="0" lt="579" ct="358" ts="1741260613306" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210866" sby="276" ng="2" na="12">
+  <httpSample t="589" it="0" lt="579" ct="358" ts="1741260613306" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-4" dt="text" by="705" sby="138" ng="2" na="12">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="9602" it="0" lt="2280" ct="1483" ts="1741260613901" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210161" sby="138" ng="2" na="12">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="10365" it="0" lt="708" ct="489" ts="1741260613175" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="313294" sby="244" ng="8" na="12">
+  <httpSample t="719" it="0" lt="708" ct="489" ts="1741260613175" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="689" sby="122" ng="8" na="12">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="9639" it="0" lt="2699" ct="1504" ts="1741260613901" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="312605" sby="122" ng="8" na="12">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="9707" it="0" lt="386" ct="202" ts="1741260613895" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="313271" sby="244" ng="8" na="12">
+  <httpSample t="386" it="0" lt="386" ct="202" ts="1741260613895" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="689" sby="122" ng="8" na="12">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="9320" it="0" lt="3478" ct="1127" ts="1741260614282" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="312582" sby="122" ng="8" na="12">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="10122" it="0" lt="312" ct="139" ts="1741260613581" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="313318" sby="244" ng="8" na="12">
+  <httpSample t="313" it="0" lt="312" ct="139" ts="1741260613581" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="689" sby="122" ng="8" na="12">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="9802" it="0" lt="2956" ct="1505" ts="1741260613901" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="312629" sby="122" ng="8" na="12">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="10447" it="0" lt="660" ct="400" ts="1741260613279" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="313263" sby="244" ng="8" na="12">
+  <httpSample t="660" it="0" lt="660" ct="400" ts="1741260613279" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="689" sby="122" ng="8" na="12">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="9786" it="0" lt="2842" ct="1461" ts="1741260613940" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="312574" sby="122" ng="8" na="12">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="4024" it="0" lt="3111" ct="0" ts="1741260619832" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210726" sby="276" ng="2" na="12">
+  <httpSample t="3111" it="0" lt="3111" ct="0" ts="1741260619832" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-7" dt="text" by="705" sby="138" ng="2" na="12">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="913" it="0" lt="785" ct="0" ts="1741260622943" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210021" sby="138" ng="2" na="12">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="10698" it="0" lt="707" ct="478" ts="1741260613184" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="313327" sby="244" ng="8" na="11">
+  <httpSample t="710" it="0" lt="707" ct="478" ts="1741260613184" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="689" sby="122" ng="8" na="11">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="9983" it="0" lt="3882" ct="1516" ts="1741260613899" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="312638" sby="122" ng="8" na="11">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="10187" it="0" lt="356" ct="150" ts="1741260613781" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="313302" sby="244" ng="8" na="11">
+  <httpSample t="356" it="0" lt="356" ct="150" ts="1741260613781" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="689" sby="122" ng="8" na="11">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="9830" it="0" lt="2016" ct="1211" ts="1741260614138" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="312613" sby="122" ng="8" na="11">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="10845" it="0" lt="710" ct="503" ts="1741260613176" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="313355" sby="244" ng="8" na="11">
+  <httpSample t="719" it="0" lt="710" ct="503" ts="1741260613176" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="689" sby="122" ng="8" na="11">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="10122" it="0" lt="3902" ct="1512" ts="1741260613899" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="312666" sby="122" ng="8" na="11">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="1440" it="0" lt="738" ct="0" ts="1741260622677" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="211278" sby="284" ng="2" na="11">
+  <httpSample t="739" it="0" lt="738" ct="0" ts="1741260622677" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-10" dt="text" by="709" sby="142" ng="2" na="11">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="702" it="0" lt="569" ct="0" ts="1741260623415" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="210569" sby="142" ng="2" na="11">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="1028" it="0" lt="489" ct="0" ts="1741260623504" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210651" sby="276" ng="1" na="10">
+  <httpSample t="489" it="0" lt="489" ct="0" ts="1741260623504" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-4" dt="text" by="705" sby="138" ng="1" na="10">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="539" it="0" lt="313" ct="0" ts="1741260623993" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="209946" sby="138" ng="1" na="10">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="1145" it="0" lt="504" ct="0" ts="1741260623473" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="313358" sby="244" ng="8" na="9">
+  <httpSample t="504" it="0" lt="504" ct="0" ts="1741260623473" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="689" sby="122" ng="8" na="9">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="641" it="0" lt="297" ct="0" ts="1741260623977" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="312669" sby="122" ng="8" na="9">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="1747" it="0" lt="532" ct="0" ts="1741260623603" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="313271" sby="244" ng="7" na="8">
+  <httpSample t="532" it="0" lt="532" ct="0" ts="1741260623603" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="689" sby="122" ng="7" na="8">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="1214" it="0" lt="804" ct="0" ts="1741260624136" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="312582" sby="122" ng="7" na="8">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="1705" it="0" lt="413" ct="0" ts="1741260623727" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="313336" sby="244" ng="6" na="7">
+  <httpSample t="413" it="0" lt="413" ct="0" ts="1741260623727" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="689" sby="122" ng="6" na="7">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="1292" it="0" lt="875" ct="0" ts="1741260624140" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="312647" sby="122" ng="6" na="7">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="1938" it="0" lt="314" ct="0" ts="1741260623883" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="313367" sby="244" ng="5" na="6">
+  <httpSample t="314" it="0" lt="314" ct="0" ts="1741260623883" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="689" sby="122" ng="5" na="6">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="1623" it="0" lt="1167" ct="0" ts="1741260624198" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="312678" sby="122" ng="5" na="6">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="1840" it="0" lt="195" ct="0" ts="1741260624021" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="313284" sby="244" ng="4" na="5">
+  <httpSample t="195" it="0" lt="195" ct="0" ts="1741260624021" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="689" sby="122" ng="4" na="5">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="1645" it="0" lt="1270" ct="0" ts="1741260624216" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="312595" sby="122" ng="4" na="5">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="2337" it="0" lt="558" ct="0" ts="1741260623541" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="313326" sby="244" ng="3" na="4">
+  <httpSample t="558" it="0" lt="558" ct="0" ts="1741260623541" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="689" sby="122" ng="3" na="4">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="1779" it="0" lt="1776" ct="0" ts="1741260624099" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="312637" sby="122" ng="3" na="4">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="2177" it="0" lt="437" ct="0" ts="1741260623703" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="313292" sby="244" ng="3" na="4">
+  <httpSample t="437" it="0" lt="437" ct="0" ts="1741260623703" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="689" sby="122" ng="3" na="4">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="1740" it="0" lt="482" ct="0" ts="1741260624140" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="312603" sby="122" ng="3" na="4">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="1934" it="0" lt="232" ct="0" ts="1741260623969" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="313345" sby="244" ng="1" na="2">
+  <httpSample t="232" it="0" lt="232" ct="0" ts="1741260623969" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="689" sby="122" ng="1" na="2">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="1702" it="0" lt="1150" ct="0" ts="1741260624201" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="312656" sby="122" ng="1" na="2">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="3026" it="0" lt="732" ct="0" ts="1741260623012" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="211207" sby="284" ng="1" na="1">
+  <httpSample t="732" it="0" lt="732" ct="0" ts="1741260623012" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-8" dt="text" by="709" sby="142" ng="1" na="1">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2294" it="0" lt="374" ct="0" ts="1741260623744" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="210498" sby="142" ng="1" na="1">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+
+<httpSample t="4405" it="0" lt="309" ct="124" ts="1741260651867" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="211200" sby="284" ng="10" na="30">
+  <httpSample t="309" it="0" lt="309" ct="124" ts="1741260651867" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-6" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="4094" it="0" lt="1530" ct="835" ts="1741260652178" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="210491" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="4775" it="0" lt="382" ct="177" ts="1741260651552" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210693" sby="276" ng="10" na="30">
+  <httpSample t="382" it="0" lt="382" ct="177" ts="1741260651552" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-3" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4392" it="0" lt="1839" ct="1094" ts="1741260651935" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="209988" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="4595" it="0" lt="329" ct="134" ts="1741260651860" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210759" sby="276" ng="10" na="30">
+  <httpSample t="329" it="0" lt="329" ct="134" ts="1741260651860" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-6" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4265" it="0" lt="1819" ct="915" ts="1741260652190" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210054" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="4606" it="0" lt="314" ct="142" ts="1741260651971" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210651" sby="276" ng="10" na="30">
+  <httpSample t="314" it="0" lt="314" ct="142" ts="1741260651971" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-7" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4291" it="0" lt="1767" ct="814" ts="1741260652286" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="209946" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="4981" it="0" lt="325" ct="155" ts="1741260651672" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="211235" sby="284" ng="10" na="30">
+  <httpSample t="325" it="0" lt="325" ct="155" ts="1741260651672" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-4" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="4655" it="0" lt="2128" ct="1137" ts="1741260651998" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="210526" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5078" it="0" lt="287" ct="130" ts="1741260651669" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210651" sby="276" ng="10" na="30">
+  <httpSample t="287" it="0" lt="287" ct="130" ts="1741260651669" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-4" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4790" it="0" lt="2252" ct="1229" ts="1741260651957" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="209946" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5283" it="0" lt="445" ct="193" ts="1741260651524" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="210657" sby="276" ng="10" na="30">
+  <httpSample t="446" it="0" lt="445" ct="193" ts="1741260651524" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-2" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4836" it="0" lt="2325" ct="1184" ts="1741260651971" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="209952" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5134" it="0" lt="313" ct="130" ts="1741260651769" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="211212" sby="284" ng="10" na="30">
+  <httpSample t="313" it="0" lt="313" ct="130" ts="1741260651769" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-5" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="4820" it="0" lt="2305" ct="1139" ts="1741260652083" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="210503" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5001" it="0" lt="311" ct="142" ts="1741260651974" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="211282" sby="284" ng="10" na="30">
+  <httpSample t="311" it="0" lt="311" ct="142" ts="1741260651974" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-7" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="4689" it="0" lt="2161" ct="933" ts="1741260652286" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="210573" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5682" it="0" lt="436" ct="193" ts="1741260651524" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="211192" sby="284" ng="10" na="30">
+  <httpSample t="436" it="0" lt="436" ct="193" ts="1741260651524" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-2" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5245" it="0" lt="2573" ct="1162" ts="1741260651961" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="210483" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5748" it="0" lt="394" ct="203" ts="1741260651520" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="313351" sby="244" ng="10" na="30">
+  <httpSample t="411" it="0" lt="394" ct="203" ts="1741260651520" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5331" it="0" lt="2481" ct="1130" ts="1741260651937" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="312662" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5220" it="0" lt="288" ct="132" ts="1741260652135" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="313293" sby="244" ng="10" na="30">
+  <httpSample t="288" it="0" lt="288" ct="132" ts="1741260652135" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="4931" it="0" lt="2037" ct="698" ts="1741260652424" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="312604" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5963" it="0" lt="398" ct="203" ts="1741260651520" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="211230" sby="284" ng="10" na="30">
+  <httpSample t="411" it="0" lt="398" ct="203" ts="1741260651520" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-1" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5545" it="0" lt="2749" ct="1205" ts="1741260651938" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="210521" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5517" it="0" lt="314" ct="129" ts="1741260652082" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="211334" sby="284" ng="10" na="30">
+  <httpSample t="314" it="0" lt="314" ct="129" ts="1741260652082" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-8" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5202" it="0" lt="2359" ct="772" ts="1741260652397" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="210625" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5488" it="0" lt="336" ct="145" ts="1741260652175" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="211222" sby="284" ng="10" na="30">
+  <httpSample t="336" it="0" lt="336" ct="145" ts="1741260652175" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-9" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5151" it="0" lt="2314" ct="669" ts="1741260652512" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="210513" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5429" it="0" lt="389" ct="155" ts="1741260652271" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="211310" sby="284" ng="10" na="30">
+  <httpSample t="389" it="0" lt="389" ct="155" ts="1741260652271" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-10" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5039" it="0" lt="2125" ct="533" ts="1741260652661" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="210601" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6186" it="0" lt="392" ct="195" ts="1741260651541" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="313270" sby="244" ng="10" na="30">
+  <httpSample t="392" it="0" lt="392" ct="195" ts="1741260651541" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5788" it="0" lt="1476" ct="1039" ts="1741260651939" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="312581" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5907" it="0" lt="362" ct="156" ts="1741260651836" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="313277" sby="244" ng="10" na="30">
+  <httpSample t="362" it="0" lt="362" ct="156" ts="1741260651836" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5543" it="0" lt="1381" ct="793" ts="1741260652200" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="312588" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5510" it="0" lt="526" ct="128" ts="1741260652271" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210651" sby="276" ng="10" na="30">
+  <httpSample t="526" it="0" lt="526" ct="128" ts="1741260652271" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-10" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4983" it="0" lt="2187" ct="783" ts="1741260652798" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="209946" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6061" it="0" lt="324" ct="135" ts="1741260651753" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="313291" sby="244" ng="10" na="30">
+  <httpSample t="324" it="0" lt="324" ct="135" ts="1741260651753" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5734" it="0" lt="1805" ct="964" ts="1741260652080" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="312602" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5873" it="0" lt="329" ct="129" ts="1741260652061" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210663" sby="276" ng="10" na="30">
+  <httpSample t="329" it="0" lt="329" ct="129" ts="1741260652061" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-8" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5542" it="0" lt="1654" ct="653" ts="1741260652392" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="209958" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6422" it="0" lt="441" ct="220" ts="1741260651520" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="313271" sby="244" ng="10" na="30">
+  <httpSample t="441" it="0" lt="441" ct="220" ts="1741260651520" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5979" it="0" lt="2110" ct="1042" ts="1741260651963" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="312582" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6036" it="0" lt="337" ct="161" ts="1741260651966" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="313348" sby="244" ng="10" na="30">
+  <httpSample t="337" it="0" lt="337" ct="161" ts="1741260651966" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5698" it="0" lt="2171" ct="848" ts="1741260652304" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="312659" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6011" it="0" lt="364" ct="132" ts="1741260652034" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="313263" sby="244" ng="10" na="30">
+  <httpSample t="364" it="0" lt="364" ct="132" ts="1741260652034" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5646" it="0" lt="2219" ct="689" ts="1741260652399" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="312574" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5824" it="0" lt="418" ct="152" ts="1741260652237" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="313299" sby="244" ng="10" na="30">
+  <httpSample t="418" it="0" lt="418" ct="152" ts="1741260652237" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5405" it="0" lt="1935" ct="547" ts="1741260652656" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="312610" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6495" it="0" lt="359" ct="164" ts="1741260651571" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="211230" sby="284" ng="10" na="30">
+  <httpSample t="360" it="0" lt="359" ct="164" ts="1741260651571" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-3" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6130" it="0" lt="2784" ct="1233" ts="1741260651936" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="210521" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5940" it="0" lt="330" ct="135" ts="1741260652161" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210688" sby="276" ng="10" na="30">
+  <httpSample t="330" it="0" lt="330" ct="135" ts="1741260652161" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-9" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5608" it="0" lt="800" ct="488" ts="1741260652493" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="209983" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="1976" it="0" lt="1487" ct="0" ts="1741260656334" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210664" sby="276" ng="10" na="30">
+  <httpSample t="1487" it="0" lt="1487" ct="0" ts="1741260656334" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-3" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="489" it="0" lt="284" ct="0" ts="1741260657821" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="209959" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="2010" it="0" lt="1506" ct="0" ts="1741260656315" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="211192" sby="284" ng="10" na="29">
+  <httpSample t="1506" it="0" lt="1506" ct="0" ts="1741260656315" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-6" dt="text" by="709" sby="142" ng="10" na="29">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="504" it="0" lt="302" ct="0" ts="1741260657821" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="210483" sby="142" ng="10" na="29">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2013" it="0" lt="1421" ct="0" ts="1741260656456" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210731" sby="276" ng="9" na="28">
+  <httpSample t="1421" it="0" lt="1421" ct="0" ts="1741260656456" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-6" dt="text" by="705" sby="138" ng="9" na="28">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="592" it="0" lt="475" ct="0" ts="1741260657877" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210026" sby="138" ng="9" na="28">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="2428" it="0" lt="1175" ct="0" ts="1741260656808" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="210651" sby="276" ng="8" na="27">
+  <httpSample t="1175" it="0" lt="1175" ct="0" ts="1741260656808" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-2" dt="text" by="705" sby="138" ng="8" na="27">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1253" it="0" lt="1093" ct="0" ts="1741260657983" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="209946" sby="138" ng="8" na="27">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="2415" it="0" lt="1021" ct="0" ts="1741260656977" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="211192" sby="284" ng="9" na="26">
+  <httpSample t="1021" it="0" lt="1021" ct="0" ts="1741260656977" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-7" dt="text" by="709" sby="142" ng="9" na="26">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="1394" it="0" lt="1163" ct="0" ts="1741260657998" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="210483" sby="142" ng="9" na="26">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2773" it="0" lt="184" ct="0" ts="1741260657936" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210784" sby="276" ng="7" na="25">
+  <httpSample t="184" it="0" lt="184" ct="0" ts="1741260657936" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-8" dt="text" by="705" sby="138" ng="7" na="25">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="2589" it="0" lt="2171" ct="0" ts="1741260658120" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210079" sby="138" ng="7" na="25">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3048" it="0" lt="446" ct="0" ts="1741260657664" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="211192" sby="284" ng="8" na="25">
+  <httpSample t="446" it="0" lt="446" ct="0" ts="1741260657664" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-9" dt="text" by="709" sby="142" ng="8" na="25">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2601" it="0" lt="2245" ct="0" ts="1741260658111" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="210483" sby="142" ng="8" na="25">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="3021" it="0" lt="364" ct="0" ts="1741260657744" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="313276" sby="244" ng="10" na="23">
+  <httpSample t="364" it="0" lt="364" ct="0" ts="1741260657744" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="689" sby="122" ng="10" na="23">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="2657" it="0" lt="2128" ct="0" ts="1741260658108" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="312587" sby="122" ng="10" na="23">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="4697" it="0" lt="1379" ct="0" ts="1741260656585" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210651" sby="276" ng="6" na="22">
+  <httpSample t="1379" it="0" lt="1379" ct="0" ts="1741260656585" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-7" dt="text" by="705" sby="138" ng="6" na="22">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="3317" it="0" lt="515" ct="0" ts="1741260657965" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="209946" sby="138" ng="6" na="22">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3386" it="0" lt="557" ct="0" ts="1741260657945" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="313372" sby="244" ng="9" na="21">
+  <httpSample t="557" it="0" lt="557" ct="0" ts="1741260657945" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="689" sby="122" ng="9" na="21">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="2828" it="0" lt="2341" ct="0" ts="1741260658503" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="312683" sby="122" ng="9" na="21">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="3296" it="0" lt="447" ct="0" ts="1741260658062" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="313331" sby="244" ng="8" na="20">
+  <httpSample t="447" it="0" lt="447" ct="0" ts="1741260658062" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="689" sby="122" ng="8" na="20">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="2848" it="0" lt="2360" ct="0" ts="1741260658510" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="312642" sby="122" ng="8" na="20">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="4613" it="0" lt="1086" ct="0" ts="1741260656904" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="211198" sby="284" ng="7" na="19">
+  <httpSample t="1086" it="0" lt="1086" ct="0" ts="1741260656904" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-5" dt="text" by="709" sby="142" ng="7" na="19">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="3527" it="0" lt="566" ct="0" ts="1741260657990" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="210489" sby="142" ng="7" na="19">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="4771" it="0" lt="1230" ct="0" ts="1741260656751" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210765" sby="276" ng="5" na="18">
+  <httpSample t="1230" it="0" lt="1230" ct="0" ts="1741260656751" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-4" dt="text" by="705" sby="138" ng="5" na="18">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="3540" it="0" lt="2806" ct="0" ts="1741260657982" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210060" sby="138" ng="5" na="18">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="4321" it="0" lt="804" ct="0" ts="1741260657207" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="211205" sby="284" ng="6" na="17">
+  <httpSample t="804" it="0" lt="804" ct="0" ts="1741260657207" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-2" dt="text" by="709" sby="142" ng="6" na="17">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="3517" it="0" lt="2927" ct="0" ts="1741260658011" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="210496" sby="142" ng="6" na="17">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="4873" it="0" lt="1324" ct="0" ts="1741260656656" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="211192" sby="284" ng="6" na="17">
+  <httpSample t="1324" it="0" lt="1324" ct="0" ts="1741260656656" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-4" dt="text" by="709" sby="142" ng="6" na="17">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="3548" it="0" lt="3523" ct="0" ts="1741260657981" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="210483" sby="142" ng="6" na="17">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="4103" it="0" lt="614" ct="0" ts="1741260657484" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="211280" sby="284" ng="4" na="15">
+  <httpSample t="614" it="0" lt="614" ct="0" ts="1741260657484" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-1" dt="text" by="709" sby="142" ng="4" na="15">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="3488" it="0" lt="1238" ct="0" ts="1741260658099" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="210571" sby="142" ng="4" na="15">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="3814" it="0" lt="313" ct="0" ts="1741260657782" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210681" sby="276" ng="4" na="14">
+  <httpSample t="313" it="0" lt="313" ct="0" ts="1741260657782" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-10" dt="text" by="705" sby="138" ng="4" na="14">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="3501" it="0" lt="1187" ct="0" ts="1741260658095" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="209976" sby="138" ng="4" na="14">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="4014" it="0" lt="496" ct="0" ts="1741260657600" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="211306" sby="284" ng="3" na="13">
+  <httpSample t="496" it="0" lt="496" ct="0" ts="1741260657600" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-8" dt="text" by="709" sby="142" ng="3" na="13">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="3518" it="0" lt="3503" ct="0" ts="1741260658096" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="210597" sby="142" ng="3" na="13">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="3914" it="0" lt="396" ct="0" ts="1741260657701" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="211338" sby="284" ng="3" na="13">
+  <httpSample t="396" it="0" lt="396" ct="0" ts="1741260657701" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-10" dt="text" by="709" sby="142" ng="3" na="13">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="3517" it="0" lt="3505" ct="0" ts="1741260658098" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="210629" sby="142" ng="3" na="13">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="3922" it="0" lt="375" ct="0" ts="1741260657729" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="313551" sby="244" ng="7" na="11">
+  <httpSample t="375" it="0" lt="375" ct="0" ts="1741260657729" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="689" sby="122" ng="7" na="11">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3547" it="0" lt="1174" ct="0" ts="1741260658104" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="312862" sby="122" ng="7" na="11">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="4296" it="0" lt="721" ct="0" ts="1741260657356" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="313300" sby="244" ng="7" na="11">
+  <httpSample t="721" it="0" lt="721" ct="0" ts="1741260657356" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="689" sby="122" ng="7" na="11">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3575" it="0" lt="1641" ct="0" ts="1741260658077" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="312611" sby="122" ng="7" na="11">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="3842" it="0" lt="289" ct="0" ts="1741260657815" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="313319" sby="244" ng="5" na="9">
+  <httpSample t="289" it="0" lt="289" ct="0" ts="1741260657815" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="689" sby="122" ng="5" na="9">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3553" it="0" lt="1392" ct="0" ts="1741260658104" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="312630" sby="122" ng="5" na="9">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="10142" it="0" lt="394" ct="197" ts="1741260651520" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210651" sby="276" ng="3" na="8">
+  <httpSample t="411" it="0" lt="394" ct="197" ts="1741260651520" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-1" dt="text" by="705" sby="138" ng="3" na="8">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="9726" it="0" lt="2021" ct="1093" ts="1741260651936" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="209946" sby="138" ng="3" na="8">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3719" it="0" lt="506" ct="0" ts="1741260658003" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="313306" sby="244" ng="4" na="8">
+  <httpSample t="506" it="0" lt="506" ct="0" ts="1741260658003" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="689" sby="122" ng="4" na="8">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3212" it="0" lt="2467" ct="0" ts="1741260658510" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="312617" sby="122" ng="4" na="8">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="3707" it="0" lt="500" ct="0" ts="1741260658046" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="313257" sby="244" ng="3" na="7">
+  <httpSample t="500" it="0" lt="500" ct="0" ts="1741260658046" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="689" sby="122" ng="3" na="7">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3207" it="0" lt="2790" ct="0" ts="1741260658546" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="312568" sby="122" ng="3" na="7">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="4558" it="0" lt="806" ct="0" ts="1741260657270" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="313269" sby="244" ng="2" na="6">
+  <httpSample t="806" it="0" lt="806" ct="0" ts="1741260657270" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="689" sby="122" ng="2" na="6">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3751" it="0" lt="3522" ct="0" ts="1741260658077" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="312580" sby="122" ng="2" na="6">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="10288" it="0" lt="355" ct="141" ts="1741260651760" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210681" sby="276" ng="3" na="5">
+  <httpSample t="356" it="0" lt="355" ct="141" ts="1741260651760" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-5" dt="text" by="705" sby="138" ng="3" na="5">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="9930" it="0" lt="2105" ct="861" ts="1741260652118" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="209976" sby="138" ng="3" na="5">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="4120" it="0" lt="931" ct="0" ts="1741260658102" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210741" sby="276" ng="3" na="5">
+  <httpSample t="931" it="0" lt="931" ct="0" ts="1741260658102" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-9" dt="text" by="705" sby="138" ng="3" na="5">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="3189" it="0" lt="2511" ct="0" ts="1741260659033" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210036" sby="138" ng="3" na="5">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="11314" it="0" lt="308" ct="129" ts="1741260651637" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="313277" sby="244" ng="1" na="4">
+  <httpSample t="308" it="0" lt="308" ct="129" ts="1741260651637" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="689" sby="122" ng="1" na="4">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="11004" it="0" lt="2390" ct="1131" ts="1741260651947" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="312588" sby="122" ng="1" na="4">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="1914" it="0" lt="219" ct="0" ts="1741260661662" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210651" sby="276" ng="2" na="4">
+  <httpSample t="220" it="0" lt="219" ct="0" ts="1741260661662" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-1" dt="text" by="705" sby="138" ng="2" na="4">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1693" it="0" lt="438" ct="0" ts="1741260661883" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="209946" sby="138" ng="2" na="4">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6085" it="0" lt="452" ct="0" ts="1741260658069" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="211269" sby="284" ng="1" na="3">
+  <httpSample t="452" it="0" lt="452" ct="0" ts="1741260658069" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-3" dt="text" by="709" sby="142" ng="1" na="3">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5633" it="0" lt="2274" ct="0" ts="1741260658521" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="210560" sby="142" ng="1" na="3">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2679" it="0" lt="207" ct="0" ts="1741260662953" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="313271" sby="244" ng="1" na="2">
+  <httpSample t="207" it="0" lt="207" ct="0" ts="1741260662953" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="689" sby="122" ng="1" na="2">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="2472" it="0" lt="441" ct="0" ts="1741260663160" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="312582" sby="122" ng="1" na="2">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="3896" it="0" lt="211" ct="0" ts="1741260662050" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210651" sby="276" ng="1" na="1">
+  <httpSample t="211" it="0" lt="211" ct="0" ts="1741260662050" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-5" dt="text" by="705" sby="138" ng="1" na="1">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="3684" it="0" lt="295" ct="0" ts="1741260662262" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="209946" sby="138" ng="1" na="1">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+
+<httpSample t="17023" it="0" lt="10318" ct="7089" ts="1741260820193" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210763" sby="276" ng="10" na="30">
+  <httpSample t="10318" it="0" lt="10318" ct="7089" ts="1741260820193" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-3" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="6704" it="0" lt="2884" ct="1382" ts="1741260830512" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210058" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="17081" it="0" lt="10276" ct="7076" ts="1741260820209" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="211343" sby="284" ng="10" na="30">
+  <httpSample t="10276" it="0" lt="10276" ct="7076" ts="1741260820209" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-3" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6804" it="0" lt="2994" ct="1408" ts="1741260830486" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="210634" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="17176" it="0" lt="10297" ct="7095" ts="1741260820168" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="210651" sby="276" ng="10" na="30">
+  <httpSample t="10297" it="0" lt="10297" ct="7095" ts="1741260820168" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-2" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="6878" it="0" lt="3083" ct="1442" ts="1741260830466" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="209946" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="16927" it="0" lt="9789" ct="6570" ts="1741260820711" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="211301" sby="284" ng="10" na="30">
+  <httpSample t="9789" it="0" lt="9789" ct="6570" ts="1741260820711" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-8" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="7136" it="0" lt="3232" ct="1424" ts="1741260830502" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="210592" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="17144" it="0" lt="9876" ct="6583" ts="1741260820705" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210707" sby="276" ng="10" na="30">
+  <httpSample t="9877" it="0" lt="9876" ct="6583" ts="1741260820705" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-8" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="7264" it="0" lt="3265" ct="1364" ts="1741260830585" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210002" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="17274" it="0" lt="9935" ct="6679" ts="1741260820609" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="211208" sby="284" ng="10" na="30">
+  <httpSample t="9936" it="0" lt="9935" ct="6679" ts="1741260820609" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-7" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="7337" it="0" lt="3299" ct="1388" ts="1741260830546" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="210499" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="17200" it="0" lt="9611" ct="6463" ts="1741260820801" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210744" sby="276" ng="10" na="30">
+  <httpSample t="9636" it="0" lt="9611" ct="6463" ts="1741260820801" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-9" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="7552" it="0" lt="3564" ct="1572" ts="1741260830449" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210039" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="17986" it="0" lt="10370" ct="7095" ts="1741260820167" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="211273" sby="284" ng="10" na="30">
+  <httpSample t="10370" it="0" lt="10370" ct="7095" ts="1741260820167" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-1" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="7614" it="0" lt="3569" ct="1398" ts="1741260830539" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="210564" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="17433" it="0" lt="9636" ct="6368" ts="1741260820896" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210772" sby="276" ng="10" na="30">
+  <httpSample t="9636" it="0" lt="9636" ct="6368" ts="1741260820896" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-10" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="7795" it="0" lt="3713" ct="1521" ts="1741260830534" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210067" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="18094" it="0" lt="10250" ct="6988" ts="1741260820291" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210732" sby="276" ng="10" na="30">
+  <httpSample t="10250" it="0" lt="10250" ct="6988" ts="1741260820291" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-4" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="7843" it="0" lt="3743" ct="1495" ts="1741260830542" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210027" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="17557" it="0" lt="9636" ct="6357" ts="1741260820906" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="211207" sby="284" ng="10" na="30">
+  <httpSample t="9636" it="0" lt="9636" ct="6357" ts="1741260820906" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-10" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="7920" it="0" lt="3794" ct="1470" ts="1741260830543" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="210498" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="18372" it="0" lt="10327" ct="7122" ts="1741260820167" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210667" sby="276" ng="10" na="30">
+  <httpSample t="10327" it="0" lt="10327" ct="7122" ts="1741260820167" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-1" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="8043" it="0" lt="3927" ct="1582" ts="1741260830496" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="209962" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="18496" it="0" lt="10370" ct="7110" ts="1741260820168" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="211198" sby="284" ng="10" na="30">
+  <httpSample t="10370" it="0" lt="10370" ct="7110" ts="1741260820168" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-2" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="8125" it="0" lt="3997" ct="1578" ts="1741260830539" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="210489" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="18392" it="0" lt="10169" ct="6893" ts="1741260820397" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210834" sby="276" ng="10" na="30">
+  <httpSample t="10169" it="0" lt="10169" ct="6893" ts="1741260820397" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-5" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="8222" it="0" lt="4036" ct="1583" ts="1741260830567" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210129" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="18332" it="0" lt="10076" ct="6781" ts="1741260820498" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210719" sby="276" ng="10" na="30">
+  <httpSample t="10076" it="0" lt="10076" ct="6781" ts="1741260820498" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-6" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="8255" it="0" lt="4052" ct="1576" ts="1741260830575" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210014" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="18486" it="0" lt="10154" ct="6866" ts="1741260820411" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="211251" sby="284" ng="10" na="30">
+  <httpSample t="10154" it="0" lt="10154" ct="6866" ts="1741260820411" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-5" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="8330" it="0" lt="4073" ct="1577" ts="1741260830567" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="210542" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="18454" it="0" lt="9867" ct="6670" ts="1741260820594" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210703" sby="276" ng="10" na="30">
+  <httpSample t="9867" it="0" lt="9867" ct="6670" ts="1741260820594" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-7" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="8586" it="0" lt="2135" ct="1431" ts="1741260830462" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="209998" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="18610" it="0" lt="10000" ct="6805" ts="1741260820476" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="313327" sby="244" ng="10" na="30">
+  <httpSample t="10000" it="0" lt="10000" ct="6805" ts="1741260820476" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="8608" it="0" lt="2003" ct="1470" ts="1741260830478" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="312638" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="18712" it="0" lt="9900" ct="6752" ts="1741260820512" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="211230" sby="284" ng="10" na="30">
+  <httpSample t="9922" it="0" lt="9900" ct="6752" ts="1741260820512" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-6" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="8778" it="0" lt="2533" ct="1449" ts="1741260830446" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="210521" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="18848" it="0" lt="10183" ct="6900" ts="1741260820379" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="313263" sby="244" ng="10" na="30">
+  <httpSample t="10183" it="0" lt="10183" ct="6900" ts="1741260820379" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="8664" it="0" lt="2168" ct="1383" ts="1741260830563" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="312574" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="19063" it="0" lt="10397" ct="7104" ts="1741260820177" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="313264" sby="244" ng="10" na="30">
+  <httpSample t="10397" it="0" lt="10397" ct="7104" ts="1741260820177" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="8665" it="0" lt="2598" ct="1385" ts="1741260830575" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="312575" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="18395" it="0" lt="9692" ct="6397" ts="1741260820877" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="313263" sby="244" ng="10" na="30">
+  <httpSample t="9692" it="0" lt="9692" ct="6397" ts="1741260820877" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="8702" it="0" lt="2720" ct="1338" ts="1741260830570" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="312574" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="18675" it="0" lt="9811" ct="6587" ts="1741260820678" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="313273" sby="244" ng="10" na="30">
+  <httpSample t="9811" it="0" lt="9811" ct="6587" ts="1741260820678" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="8862" it="0" lt="3131" ct="1564" ts="1741260830491" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="312584" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="19201" it="0" lt="10423" ct="7112" ts="1741260820168" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="313311" sby="244" ng="10" na="30">
+  <httpSample t="10423" it="0" lt="10423" ct="7112" ts="1741260820168" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="8776" it="0" lt="2998" ct="1413" ts="1741260830593" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="312622" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="19248" it="0" lt="10253" ct="7122" ts="1741260820167" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="313324" sby="244" ng="10" na="30">
+  <httpSample t="10267" it="0" lt="10253" ct="7122" ts="1741260820167" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="8976" it="0" lt="3341" ct="1640" ts="1741260830439" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="312635" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="19176" it="0" lt="10146" ct="7012" ts="1741260820275" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="313263" sby="244" ng="10" na="30">
+  <httpSample t="10160" it="0" lt="10146" ct="7012" ts="1741260820275" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="9010" it="0" lt="3535" ct="1653" ts="1741260830441" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="312574" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="18910" it="0" lt="9989" ct="6709" ts="1741260820581" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="313263" sby="244" ng="10" na="30">
+  <httpSample t="9989" it="0" lt="9989" ct="6709" ts="1741260820581" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="8920" it="0" lt="3559" ct="1529" ts="1741260830571" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="312574" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="18698" it="0" lt="9707" ct="6467" ts="1741260820809" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="211220" sby="284" ng="10" na="30">
+  <httpSample t="9707" it="0" lt="9707" ct="6467" ts="1741260820809" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-9" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="8990" it="0" lt="3960" ct="1516" ts="1741260830517" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="210511" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="19221" it="0" lt="10248" ct="6968" ts="1741260820310" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="211274" sby="284" ng="10" na="30">
+  <httpSample t="10248" it="0" lt="10248" ct="6968" ts="1741260820310" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-4" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="8971" it="0" lt="4223" ct="1603" ts="1741260830560" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="210565" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="18761" it="0" lt="9714" ct="6497" ts="1741260820780" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="313336" sby="244" ng="10" na="30">
+  <httpSample t="9714" it="0" lt="9714" ct="6497" ts="1741260820780" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="9045" it="0" lt="1710" ct="1423" ts="1741260830496" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="312647" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="2590" it="0" lt="2030" ct="0" ts="1741260837259" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210706" sby="276" ng="10" na="30">
+  <httpSample t="2030" it="0" lt="2030" ct="0" ts="1741260837259" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-3" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="559" it="0" lt="375" ct="0" ts="1741260839290" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210001" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="2646" it="0" lt="1994" ct="0" ts="1741260837295" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="211267" sby="284" ng="10" na="29">
+  <httpSample t="1994" it="0" lt="1994" ct="0" ts="1741260837295" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-3" dt="text" by="709" sby="142" ng="10" na="29">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="651" it="0" lt="279" ct="0" ts="1741260839290" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="210558" sby="142" ng="10" na="29">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2728" it="0" lt="1967" ct="0" ts="1741260837348" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="210656" sby="276" ng="9" na="28">
+  <httpSample t="1967" it="0" lt="1967" ct="0" ts="1741260837348" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-2" dt="text" by="705" sby="138" ng="9" na="28">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="761" it="0" lt="561" ct="0" ts="1741260839315" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="209951" sby="138" ng="9" na="28">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3517" it="0" lt="1068" ct="0" ts="1741260838464" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="211192" sby="284" ng="9" na="27">
+  <httpSample t="1068" it="0" lt="1068" ct="0" ts="1741260838464" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-10" dt="text" by="709" sby="142" ng="9" na="27">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2449" it="0" lt="1763" ct="0" ts="1741260839532" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="210483" sby="142" ng="9" na="27">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="3893" it="0" lt="1204" ct="0" ts="1741260838330" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210680" sby="276" ng="8" na="26">
+  <httpSample t="1205" it="0" lt="1204" ct="0" ts="1741260838330" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-10" dt="text" by="705" sby="138" ng="8" na="26">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="2688" it="0" lt="1841" ct="0" ts="1741260839535" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="209975" sby="138" ng="8" na="26">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="4620" it="0" lt="516" ct="0" ts="1741260839051" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210651" sby="276" ng="7" na="25">
+  <httpSample t="516" it="0" lt="516" ct="0" ts="1741260839051" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-7" dt="text" by="705" sby="138" ng="7" na="25">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4104" it="0" lt="2999" ct="0" ts="1741260839567" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="209946" sby="138" ng="7" na="25">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5035" it="0" lt="688" ct="0" ts="1741260838899" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="211251" sby="284" ng="8" na="24">
+  <httpSample t="688" it="0" lt="688" ct="0" ts="1741260838899" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-5" dt="text" by="709" sby="142" ng="8" na="24">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="4345" it="0" lt="3248" ct="0" ts="1741260839589" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="210542" sby="142" ng="8" na="24">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="4713" it="0" lt="308" ct="0" ts="1741260839273" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="313402" sby="244" ng="10" na="23">
+  <httpSample t="308" it="0" lt="308" ct="0" ts="1741260839273" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="689" sby="122" ng="10" na="23">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="4405" it="0" lt="2970" ct="0" ts="1741260839581" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="312713" sby="122" ng="10" na="23">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5200" it="0" lt="758" ct="0" ts="1741260838795" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210656" sby="276" ng="6" na="22">
+  <httpSample t="758" it="0" lt="758" ct="0" ts="1741260838795" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-5" dt="text" by="705" sby="138" ng="6" na="22">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4442" it="0" lt="3343" ct="0" ts="1741260839553" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="209951" sby="138" ng="6" na="22">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="4913" it="0" lt="487" ct="0" ts="1741260839089" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="313296" sby="244" ng="9" na="21">
+  <httpSample t="487" it="0" lt="487" ct="0" ts="1741260839089" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="689" sby="122" ng="9" na="21">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="4426" it="0" lt="3082" ct="0" ts="1741260839576" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="312607" sby="122" ng="9" na="21">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6659" it="0" lt="1462" ct="0" ts="1741260838003" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210748" sby="276" ng="5" na="20">
+  <httpSample t="1462" it="0" lt="1462" ct="0" ts="1741260838003" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-9" dt="text" by="705" sby="138" ng="5" na="20">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5196" it="0" lt="627" ct="0" ts="1741260839466" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210043" sby="138" ng="5" na="20">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6814" it="0" lt="1571" ct="0" ts="1741260837885" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="211192" sby="284" ng="7" na="19">
+  <httpSample t="1571" it="0" lt="1571" ct="0" ts="1741260837885" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-7" dt="text" by="709" sby="142" ng="7" na="19">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5243" it="0" lt="674" ct="0" ts="1741260839456" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="210483" sby="142" ng="7" na="19">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6868" it="0" lt="1594" ct="0" ts="1741260837851" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210724" sby="276" ng="4" na="18">
+  <httpSample t="1594" it="0" lt="1594" ct="0" ts="1741260837851" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-8" dt="text" by="705" sby="138" ng="4" na="18">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5273" it="0" lt="732" ct="0" ts="1741260839446" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210019" sby="138" ng="4" na="18">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5526" it="0" lt="330" ct="0" ts="1741260839242" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="313292" sby="244" ng="8" na="17">
+  <httpSample t="330" it="0" lt="330" ct="0" ts="1741260839242" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="689" sby="122" ng="8" na="17">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5195" it="0" lt="1976" ct="0" ts="1741260839573" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="312603" sby="122" ng="8" na="17">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5553" it="0" lt="351" ct="0" ts="1741260839227" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="211274" sby="284" ng="6" na="16">
+  <httpSample t="351" it="0" lt="351" ct="0" ts="1741260839227" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-6" dt="text" by="709" sby="142" ng="6" na="16">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5202" it="0" lt="2222" ct="0" ts="1741260839578" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="210565" sby="142" ng="6" na="16">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5966" it="0" lt="716" ct="0" ts="1741260838837" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210685" sby="276" ng="3" na="15">
+  <httpSample t="716" it="0" lt="716" ct="0" ts="1741260838837" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-6" dt="text" by="705" sby="138" ng="3" na="15">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5250" it="0" lt="2474" ct="0" ts="1741260839553" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="209980" sby="138" ng="3" na="15">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5465" it="0" lt="224" ct="0" ts="1741260839354" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="313399" sby="244" ng="7" na="14">
+  <httpSample t="224" it="0" lt="224" ct="0" ts="1741260839354" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="689" sby="122" ng="7" na="14">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5241" it="0" lt="2015" ct="0" ts="1741260839578" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="312710" sby="122" ng="7" na="14">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5454" it="0" lt="210" ct="0" ts="1741260839370" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="313307" sby="244" ng="6" na="13">
+  <httpSample t="210" it="0" lt="210" ct="0" ts="1741260839370" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="689" sby="122" ng="6" na="13">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5244" it="0" lt="2573" ct="0" ts="1741260839580" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="312618" sby="122" ng="6" na="13">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5348" it="0" lt="571" ct="0" ts="1741260839533" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="211212" sby="284" ng="5" na="12">
+  <httpSample t="571" it="0" lt="571" ct="0" ts="1741260839533" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-4" dt="text" by="709" sby="142" ng="5" na="12">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="4776" it="0" lt="3950" ct="0" ts="1741260840104" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="210503" sby="142" ng="5" na="12">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5605" it="0" lt="685" ct="0" ts="1741260839418" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="313271" sby="244" ng="5" na="11">
+  <httpSample t="685" it="0" lt="685" ct="0" ts="1741260839418" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="689" sby="122" ng="5" na="11">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="4920" it="0" lt="4836" ct="0" ts="1741260840103" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="312582" sby="122" ng="5" na="11">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="7397" it="0" lt="1801" ct="0" ts="1741260837640" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="211268" sby="284" ng="4" na="10">
+  <httpSample t="1801" it="0" lt="1801" ct="0" ts="1741260837640" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-8" dt="text" by="709" sby="142" ng="4" na="10">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5595" it="0" lt="818" ct="0" ts="1741260839442" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="210559" sby="142" ng="4" na="10">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5581" it="0" lt="613" ct="0" ts="1741260839492" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="313427" sby="244" ng="4" na="9">
+  <httpSample t="613" it="0" lt="613" ct="0" ts="1741260839492" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="689" sby="122" ng="4" na="9">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="4968" it="0" lt="4347" ct="0" ts="1741260840105" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="312738" sby="122" ng="4" na="9">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5792" it="0" lt="594" ct="0" ts="1741260839509" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="211198" sby="284" ng="3" na="8">
+  <httpSample t="594" it="0" lt="594" ct="0" ts="1741260839509" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-9" dt="text" by="709" sby="142" ng="3" na="8">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5198" it="0" lt="4104" ct="0" ts="1741260840103" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="210489" sby="142" ng="3" na="8">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6430" it="0" lt="340" ct="0" ts="1741260839228" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="313352" sby="244" ng="3" na="7">
+  <httpSample t="340" it="0" lt="340" ct="0" ts="1741260839228" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="689" sby="122" ng="3" na="7">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6090" it="0" lt="5217" ct="0" ts="1741260839568" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="312663" sby="122" ng="3" na="7">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6749" it="0" lt="655" ct="0" ts="1741260839453" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="313271" sby="244" ng="2" na="6">
+  <httpSample t="655" it="0" lt="655" ct="0" ts="1741260839453" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="689" sby="122" ng="2" na="6">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6095" it="0" lt="3920" ct="0" ts="1741260840107" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="312582" sby="122" ng="2" na="6">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="8075" it="0" lt="1370" ct="0" ts="1741260838155" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="211192" sby="284" ng="2" na="5">
+  <httpSample t="1371" it="0" lt="1370" ct="0" ts="1741260838155" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-1" dt="text" by="709" sby="142" ng="2" na="5">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6704" it="0" lt="6373" ct="0" ts="1741260839526" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="210483" sby="142" ng="2" na="5">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6770" it="0" lt="565" ct="0" ts="1741260839543" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="313257" sby="244" ng="1" na="4">
+  <httpSample t="565" it="0" lt="565" ct="0" ts="1741260839543" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="689" sby="122" ng="1" na="4">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6206" it="0" lt="4976" ct="0" ts="1741260840107" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="312568" sby="122" ng="1" na="4">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="17846" it="0" lt="875" ct="0" ts="1741260838664" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="211192" sby="284" ng="1" na="3">
+  <httpSample t="875" it="0" lt="875" ct="0" ts="1741260838664" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-2" dt="text" by="709" sby="142" ng="1" na="3">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="16971" it="0" lt="11927" ct="0" ts="1741260839539" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="210483" sby="142" ng="1" na="3">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="18138" it="0" lt="1141" ct="0" ts="1741260838386" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210722" sby="276" ng="2" na="2">
+  <httpSample t="1141" it="0" lt="1141" ct="0" ts="1741260838386" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-4" dt="text" by="705" sby="138" ng="2" na="2">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="16996" it="0" lt="5188" ct="0" ts="1741260839528" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210017" sby="138" ng="2" na="2">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="17989" it="0" lt="994" ct="0" ts="1741260838540" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210788" sby="276" ng="2" na="2">
+  <httpSample t="994" it="0" lt="994" ct="0" ts="1741260838540" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-1" dt="text" by="705" sby="138" ng="2" na="2">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="16995" it="0" lt="11931" ct="0" ts="1741260839534" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210083" sby="138" ng="2" na="2">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+
+<httpSample t="4104" it="0" lt="299" ct="138" ts="1741261075561" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210665" sby="276" ng="10" na="30">
+  <httpSample t="299" it="0" lt="299" ct="138" ts="1741261075561" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-8" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="3803" it="0" lt="1090" ct="577" ts="1741261075862" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="209960" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="4195" it="0" lt="353" ct="153" ts="1741261075668" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210695" sby="276" ng="10" na="30">
+  <httpSample t="353" it="0" lt="353" ct="153" ts="1741261075668" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-9" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="3841" it="0" lt="1055" ct="414" ts="1741261076022" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="209990" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5346" it="0" lt="417" ct="190" ts="1741261075059" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210680" sby="276" ng="10" na="30">
+  <httpSample t="428" it="0" lt="417" ct="190" ts="1741261075059" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-3" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4911" it="0" lt="1764" ct="1041" ts="1741261075494" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="209975" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5272" it="0" lt="320" ct="134" ts="1741261075164" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210767" sby="276" ng="10" na="30">
+  <httpSample t="323" it="0" lt="320" ct="134" ts="1741261075164" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-4" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4941" it="0" lt="1824" ct="1065" ts="1741261075495" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210062" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5210" it="0" lt="281" ct="128" ts="1741261075264" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="313292" sby="244" ng="10" na="30">
+  <httpSample t="281" it="0" lt="281" ct="128" ts="1741261075264" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="4928" it="0" lt="1212" ct="928" ts="1741261075546" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="312603" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5306" it="0" lt="300" ct="127" ts="1741261075266" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210793" sby="276" ng="10" na="30">
+  <httpSample t="300" it="0" lt="300" ct="127" ts="1741261075266" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-5" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5005" it="0" lt="1854" ct="1013" ts="1741261075567" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210088" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5045" it="0" lt="334" ct="138" ts="1741261075767" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210727" sby="276" ng="10" na="30">
+  <httpSample t="334" it="0" lt="334" ct="138" ts="1741261075767" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-10" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="4710" it="0" lt="1471" ct="492" ts="1741261076102" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210022" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5543" it="0" lt="318" ct="142" ts="1741261075501" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210694" sby="276" ng="10" na="30">
+  <httpSample t="318" it="0" lt="318" ct="142" ts="1741261075501" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-7" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5224" it="0" lt="1883" ct="816" ts="1741261075820" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="209989" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6242" it="0" lt="454" ct="228" ts="1741261075021" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210665" sby="276" ng="10" na="30">
+  <httpSample t="465" it="0" lt="454" ct="228" ts="1741261075021" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-1" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5769" it="0" lt="2349" ct="1182" ts="1741261075494" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="209960" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5944" it="0" lt="336" ct="147" ts="1741261075366" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210736" sby="276" ng="10" na="30">
+  <httpSample t="336" it="0" lt="336" ct="147" ts="1741261075366" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-6" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5607" it="0" lt="2177" ct="954" ts="1741261075703" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210031" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="6345" it="0" lt="455" ct="214" ts="1741261075021" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="210720" sby="276" ng="10" na="30">
+  <httpSample t="466" it="0" lt="455" ct="214" ts="1741261075021" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-2" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="5873" it="0" lt="2470" ct="1226" ts="1741261075493" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="210015" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="5641" it="0" lt="283" ct="126" ts="1741261075738" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="313301" sby="244" ng="10" na="30">
+  <httpSample t="283" it="0" lt="283" ct="126" ts="1741261075738" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5357" it="0" lt="825" ct="449" ts="1741261076022" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="312612" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6257" it="0" lt="331" ct="148" ts="1741261075267" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="211240" sby="284" ng="10" na="30">
+  <httpSample t="331" it="0" lt="331" ct="148" ts="1741261075267" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-5" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5925" it="0" lt="2539" ct="894" ts="1741261075599" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="210531" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5938" it="0" lt="294" ct="140" ts="1741261075666" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="211226" sby="284" ng="10" na="30">
+  <httpSample t="294" it="0" lt="294" ct="140" ts="1741261075666" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-9" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5641" it="0" lt="2219" ct="556" ts="1741261075963" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="210517" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5886" it="0" lt="282" ct="128" ts="1741261075764" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="211192" sby="284" ng="10" na="30">
+  <httpSample t="282" it="0" lt="282" ct="128" ts="1741261075764" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-10" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5603" it="0" lt="2163" ct="443" ts="1741261076047" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="210483" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6708" it="0" lt="454" ct="206" ts="1741261075021" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="211264" sby="284" ng="10" na="30">
+  <httpSample t="466" it="0" lt="454" ct="206" ts="1741261075021" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-2" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6237" it="0" lt="2783" ct="1120" ts="1741261075492" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="210555" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6770" it="0" lt="440" ct="185" ts="1741261075064" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="211261" sby="284" ng="10" na="30">
+  <httpSample t="440" it="0" lt="440" ct="185" ts="1741261075064" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-3" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6328" it="0" lt="2857" ct="1118" ts="1741261075506" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="210552" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6762" it="0" lt="320" ct="128" ts="1741261075168" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="211222" sby="284" ng="10" na="30">
+  <httpSample t="320" it="0" lt="320" ct="128" ts="1741261075168" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-4" dt="text" by="709" sby="142" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6435" it="0" lt="2952" ct="1142" ts="1741261075495" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="210513" sby="142" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6639" it="0" lt="325" ct="134" ts="1741261075340" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="313285" sby="244" ng="10" na="30">
+  <httpSample t="325" it="0" lt="325" ct="134" ts="1741261075340" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6313" it="0" lt="1471" ct="847" ts="1741261075666" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="312596" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6513" it="0" lt="313" ct="133" ts="1741261075537" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="313321" sby="244" ng="10" na="30">
+  <httpSample t="313" it="0" lt="313" ct="133" ts="1741261075537" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6199" it="0" lt="1295" ct="697" ts="1741261075851" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="312632" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6932" it="0" lt="353" ct="152" ts="1741261075135" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="313378" sby="244" ng="10" na="30">
+  <httpSample t="353" it="0" lt="353" ct="152" ts="1741261075135" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6571" it="0" lt="1901" ct="1178" ts="1741261075496" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="312689" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="7078" it="0" lt="438" ct="196" ts="1741261075038" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="313398" sby="244" ng="10" na="30">
+  <httpSample t="449" it="0" lt="438" ct="196" ts="1741261075038" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6621" it="0" lt="2036" ct="1169" ts="1741261075495" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="312709" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6559" it="0" lt="304" ct="137" ts="1741261075635" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="313517" sby="244" ng="10" na="30">
+  <httpSample t="304" it="0" lt="304" ct="137" ts="1741261075635" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6254" it="0" lt="1645" ct="671" ts="1741261075940" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="312828" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6709" it="0" lt="342" ct="141" ts="1741261075498" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="313373" sby="244" ng="10" na="30">
+  <httpSample t="342" it="0" lt="342" ct="141" ts="1741261075498" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6366" it="0" lt="1771" ct="807" ts="1741261075841" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="312684" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="7244" it="0" lt="465" ct="230" ts="1741261075022" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="313263" sby="244" ng="10" na="30">
+  <httpSample t="465" it="0" lt="465" ct="230" ts="1741261075022" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6772" it="0" lt="2264" ct="1200" ts="1741261075494" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="312574" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="7298" it="0" lt="454" ct="229" ts="1741261075020" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="313469" sby="244" ng="10" na="30">
+  <httpSample t="466" it="0" lt="454" ct="229" ts="1741261075020" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="689" sby="122" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="6826" it="0" lt="2326" ct="1209" ts="1741261075492" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="312780" sby="122" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="2873" it="0" lt="1828" ct="0" ts="1741261079690" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210792" sby="276" ng="10" na="30">
+  <httpSample t="1828" it="0" lt="1828" ct="0" ts="1741261079690" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-8" dt="text" by="705" sby="138" ng="10" na="30">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1045" it="0" lt="825" ct="0" ts="1741261081518" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-8" dt="text" by="210087" sby="138" ng="10" na="30">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="7210" it="0" lt="321" ct="128" ts="1741261075371" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="211192" sby="284" ng="10" na="29">
+  <httpSample t="321" it="0" lt="321" ct="128" ts="1741261075371" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-6" dt="text" by="709" sby="142" ng="10" na="29">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6888" it="0" lt="2638" ct="877" ts="1741261075693" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="210483" sby="142" ng="10" na="29">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2893" it="0" lt="1806" ct="0" ts="1741261079865" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210710" sby="276" ng="9" na="29">
+  <httpSample t="1806" it="0" lt="1806" ct="0" ts="1741261079865" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-9" dt="text" by="705" sby="138" ng="9" na="29">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1087" it="0" lt="909" ct="0" ts="1741261081671" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-9" dt="text" by="210005" sby="138" ng="9" na="29">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="7272" it="0" lt="292" ct="126" ts="1741261075513" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="211302" sby="284" ng="10" na="28">
+  <httpSample t="292" it="0" lt="292" ct="126" ts="1741261075513" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-7" dt="text" by="709" sby="142" ng="10" na="28">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="6979" it="0" lt="2647" ct="880" ts="1741261075806" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="210593" sby="142" ng="10" na="28">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2897" it="0" lt="1500" ct="0" ts="1741261080576" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="210690" sby="276" ng="8" na="28">
+  <httpSample t="1500" it="0" lt="1500" ct="0" ts="1741261080576" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-5" dt="text" by="705" sby="138" ng="8" na="28">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1397" it="0" lt="886" ct="0" ts="1741261082076" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-5" dt="text" by="209985" sby="138" ng="8" na="28">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3058" it="0" lt="1644" ct="0" ts="1741261080421" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="210659" sby="276" ng="7" na="27">
+  <httpSample t="1644" it="0" lt="1644" ct="0" ts="1741261080421" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-3" dt="text" by="705" sby="138" ng="7" na="27">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1414" it="0" lt="810" ct="0" ts="1741261082065" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-3" dt="text" by="209954" sby="138" ng="7" na="27">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3110" it="0" lt="1633" ct="0" ts="1741261080438" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210790" sby="276" ng="6" na="26">
+  <httpSample t="1633" it="0" lt="1633" ct="0" ts="1741261080438" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-4" dt="text" by="705" sby="138" ng="6" na="26">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1476" it="0" lt="1106" ct="0" ts="1741261082072" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-4" dt="text" by="210085" sby="138" ng="6" na="26">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="2924" it="0" lt="1387" ct="0" ts="1741261080815" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="210651" sby="276" ng="5" na="25">
+  <httpSample t="1387" it="0" lt="1387" ct="0" ts="1741261080815" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-10" dt="text" by="705" sby="138" ng="5" na="25">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1536" it="0" lt="1369" ct="0" ts="1741261082203" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-10" dt="text" by="209946" sby="138" ng="5" na="25">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="2882" it="0" lt="1232" ct="0" ts="1741261081048" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210819" sby="276" ng="4" na="24">
+  <httpSample t="1232" it="0" lt="1232" ct="0" ts="1741261081048" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-7" dt="text" by="705" sby="138" ng="4" na="24">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1650" it="0" lt="1471" ct="0" ts="1741261082280" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-7" dt="text" by="210114" sby="138" ng="4" na="24">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3026" it="0" lt="1046" ct="0" ts="1741261081311" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="210679" sby="276" ng="3" na="23">
+  <httpSample t="1047" it="0" lt="1046" ct="0" ts="1741261081311" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-6" dt="text" by="705" sby="138" ng="3" na="23">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="1978" it="0" lt="1608" ct="0" ts="1741261082359" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-6" dt="text" by="209974" sby="138" ng="3" na="23">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3445" it="0" lt="999" ct="0" ts="1741261081367" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="210651" sby="276" ng="2" na="22">
+  <httpSample t="999" it="0" lt="999" ct="0" ts="1741261081367" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-2" dt="text" by="705" sby="138" ng="2" na="22">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="2446" it="0" lt="1822" ct="0" ts="1741261082366" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-2" dt="text" by="209946" sby="138" ng="2" na="22">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3572" it="0" lt="1087" ct="0" ts="1741261081264" s="true" lb="Sportrs" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210745" sby="276" ng="1" na="21">
+  <httpSample t="1087" it="0" lt="1087" ct="0" ts="1741261081264" s="true" lb="Sportrs-0" rc="301" rm="Moved Permanently" tn="Thread Group 2-1" dt="text" by="705" sby="138" ng="1" na="21">
+    <java.net.URL>http://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <httpSample t="2484" it="0" lt="1910" ct="0" ts="1741261082352" s="true" lb="Sportrs-1" rc="200" rm="OK" tn="Thread Group 2-1" dt="text" by="210040" sby="138" ng="1" na="21">
+    <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/sports/</java.net.URL>
+</httpSample>
+<httpSample t="3455" it="0" lt="985" ct="0" ts="1741261081381" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="313255" sby="244" ng="10" na="21">
+  <httpSample t="986" it="0" lt="985" ct="0" ts="1741261081381" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-10" dt="text" by="689" sby="122" ng="10" na="21">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="2469" it="0" lt="1705" ct="0" ts="1741261082367" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-10" dt="text" by="312566" sby="122" ng="10" na="21">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="3491" it="0" lt="847" ct="0" ts="1741261081525" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="211192" sby="284" ng="10" na="19">
+  <httpSample t="847" it="0" lt="847" ct="0" ts="1741261081525" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-5" dt="text" by="709" sby="142" ng="10" na="19">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2643" it="0" lt="2067" ct="0" ts="1741261082373" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-5" dt="text" by="210483" sby="142" ng="10" na="19">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="3659" it="0" lt="767" ct="0" ts="1741261081605" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="211293" sby="284" ng="9" na="18">
+  <httpSample t="767" it="0" lt="767" ct="0" ts="1741261081605" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-9" dt="text" by="709" sby="142" ng="9" na="18">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2892" it="0" lt="2534" ct="0" ts="1741261082372" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-9" dt="text" by="210584" sby="142" ng="9" na="18">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="3695" it="0" lt="732" ct="0" ts="1741261081651" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="211337" sby="284" ng="8" na="17">
+  <httpSample t="732" it="0" lt="732" ct="0" ts="1741261081651" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-10" dt="text" by="709" sby="142" ng="8" na="17">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2962" it="0" lt="2629" ct="0" ts="1741261082384" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-10" dt="text" by="210628" sby="142" ng="8" na="17">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5110" it="0" lt="1589" ct="0" ts="1741261080478" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="313281" sby="244" ng="9" na="16">
+  <httpSample t="1589" it="0" lt="1589" ct="0" ts="1741261080478" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-5" dt="text" by="689" sby="122" ng="9" na="16">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3520" it="0" lt="728" ct="0" ts="1741261082068" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="312592" sby="122" ng="9" na="16">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="4511" it="0" lt="773" ct="0" ts="1741261082068" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="313276" sby="244" ng="8" na="15">
+  <httpSample t="773" it="0" lt="773" ct="0" ts="1741261082068" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-4" dt="text" by="689" sby="122" ng="8" na="15">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3738" it="0" lt="2896" ct="0" ts="1741261082841" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="312587" sby="122" ng="8" na="15">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="4652" it="0" lt="870" ct="0" ts="1741261081980" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="313298" sby="244" ng="7" na="14">
+  <httpSample t="870" it="0" lt="870" ct="0" ts="1741261081980" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-6" dt="text" by="689" sby="122" ng="7" na="14">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3782" it="0" lt="2947" ct="0" ts="1741261082850" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-6" dt="text" by="312609" sby="122" ng="7" na="14">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="4948" it="0" lt="995" ct="0" ts="1741261081835" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="211282" sby="284" ng="7" na="13">
+  <httpSample t="995" it="0" lt="995" ct="0" ts="1741261081835" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-3" dt="text" by="709" sby="142" ng="7" na="13">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="3953" it="0" lt="3550" ct="0" ts="1741261082830" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-3" dt="text" by="210573" sby="142" ng="7" na="13">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5006" it="0" lt="898" ct="0" ts="1741261081932" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="211245" sby="284" ng="6" na="12">
+  <httpSample t="899" it="0" lt="898" ct="0" ts="1741261081932" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-4" dt="text" by="709" sby="142" ng="6" na="12">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="4107" it="0" lt="3898" ct="0" ts="1741261082831" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-4" dt="text" by="210536" sby="142" ng="6" na="12">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="5340" it="0" lt="1398" ct="0" ts="1741261082196" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="313255" sby="244" ng="6" na="11">
+  <httpSample t="1398" it="0" lt="1398" ct="0" ts="1741261082196" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-9" dt="text" by="689" sby="122" ng="6" na="11">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="3941" it="0" lt="3371" ct="0" ts="1741261083595" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-9" dt="text" by="312566" sby="122" ng="6" na="11">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5544" it="0" lt="1314" ct="0" ts="1741261082269" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="313263" sby="244" ng="5" na="10">
+  <httpSample t="1314" it="0" lt="1314" ct="0" ts="1741261082269" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-2" dt="text" by="689" sby="122" ng="5" na="10">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="4229" it="0" lt="3485" ct="0" ts="1741261083584" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="312574" sby="122" ng="5" na="10">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5626" it="0" lt="1383" ct="0" ts="1741261082211" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="313285" sby="244" ng="4" na="9">
+  <httpSample t="1383" it="0" lt="1383" ct="0" ts="1741261082211" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-7" dt="text" by="689" sby="122" ng="4" na="9">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="4242" it="0" lt="3540" ct="0" ts="1741261083595" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-7" dt="text" by="312596" sby="122" ng="4" na="9">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="6258" it="0" lt="872" ct="0" ts="1741261081731" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="211244" sby="284" ng="5" na="8">
+  <httpSample t="872" it="0" lt="872" ct="0" ts="1741261081731" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-2" dt="text" by="709" sby="142" ng="5" na="8">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="5385" it="0" lt="2755" ct="0" ts="1741261082604" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-2" dt="text" by="210535" sby="142" ng="5" na="8">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6080" it="0" lt="783" ct="0" ts="1741261082058" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="313296" sby="244" ng="3" na="7">
+  <httpSample t="783" it="0" lt="783" ct="0" ts="1741261082058" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-8" dt="text" by="689" sby="122" ng="3" na="7">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5296" it="0" lt="2767" ct="0" ts="1741261082842" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-8" dt="text" by="312607" sby="122" ng="3" na="7">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5568" it="0" lt="2825" ct="0" ts="1741261082788" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="211192" sby="284" ng="4" na="6">
+  <httpSample t="2826" it="0" lt="2825" ct="0" ts="1741261082788" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-7" dt="text" by="709" sby="142" ng="4" na="6">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2742" it="0" lt="2568" ct="0" ts="1741261085614" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-7" dt="text" by="210483" sby="142" ng="4" na="6">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6255" it="0" lt="724" ct="0" ts="1741261082117" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="313311" sby="244" ng="2" na="5">
+  <httpSample t="724" it="0" lt="724" ct="0" ts="1741261082117" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-3" dt="text" by="689" sby="122" ng="2" na="5">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="5531" it="0" lt="3105" ct="0" ts="1741261082841" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="312622" sby="122" ng="2" na="5">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="5879" it="0" lt="2327" ct="0" ts="1741261082586" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="211267" sby="284" ng="3" na="4">
+  <httpSample t="2327" it="0" lt="2327" ct="0" ts="1741261082586" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-6" dt="text" by="709" sby="142" ng="3" na="4">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="3551" it="0" lt="3074" ct="0" ts="1741261084914" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-6" dt="text" by="210558" sby="142" ng="3" na="4">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="6368" it="0" lt="1638" ct="0" ts="1741261082322" s="true" lb="Vanguard" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="313286" sby="244" ng="1" na="3">
+  <httpSample t="1638" it="0" lt="1638" ct="0" ts="1741261082322" s="true" lb="Vanguard-0" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="689" sby="122" ng="1" na="3">
+    <java.net.URL>http://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="4730" it="0" lt="3596" ct="0" ts="1741261083960" s="true" lb="Vanguard-1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="312597" sby="122" ng="1" na="3">
+    <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/</java.net.URL>
+</httpSample>
+<httpSample t="13865" it="0" lt="454" ct="219" ts="1741261075020" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="211200" sby="284" ng="2" na="2">
+  <httpSample t="466" it="0" lt="454" ct="219" ts="1741261075020" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-1" dt="text" by="709" sby="142" ng="2" na="2">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="13392" it="0" lt="2554" ct="970" ts="1741261075493" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="210491" sby="142" ng="2" na="2">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="13453" it="0" lt="329" ct="148" ts="1741261075565" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="211214" sby="284" ng="2" na="2">
+  <httpSample t="330" it="0" lt="329" ct="148" ts="1741261075565" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-8" dt="text" by="709" sby="142" ng="2" na="2">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="13122" it="0" lt="2203" ct="537" ts="1741261075896" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="210505" sby="142" ng="2" na="2">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="2800" it="0" lt="203" ct="0" ts="1741261088886" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="211286" sby="284" ng="2" na="2">
+  <httpSample t="203" it="0" lt="203" ct="0" ts="1741261088886" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-1" dt="text" by="709" sby="142" ng="2" na="2">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="2597" it="0" lt="669" ct="0" ts="1741261089089" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-1" dt="text" by="210577" sby="142" ng="2" na="2">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+<httpSample t="4045" it="0" lt="183" ct="0" ts="1741261089019" s="true" lb="Metro" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="211215" sby="284" ng="1" na="1">
+  <httpSample t="184" it="0" lt="183" ct="0" ts="1741261089019" s="true" lb="Metro-0" rc="301" rm="Moved Permanently" tn="Thread Group 3-8" dt="text" by="709" sby="142" ng="1" na="1">
+    <java.net.URL>http://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <httpSample t="3861" it="0" lt="313" ct="0" ts="1741261089203" s="true" lb="Metro-1" rc="200" rm="OK" tn="Thread Group 3-8" dt="text" by="210506" sby="142" ng="1" na="1">
+    <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.vanguardngr.com/category/more/metro/</java.net.URL>
+</httpSample>
+
+</testResults>
