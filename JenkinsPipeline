@@ -1,0 +1,44 @@
+pipeline {
+    agent any
+
+    tools {
+        maven Maven_9.8.9  // Use the name you configured in Jenkins
+        jdk 'JDK_17'         // Use the JDK name configured in Jenkins
+    }
+
+    stages {
+        stage('Checkout Code') {
+            steps {
+                git 'https://github.com/Herbert-Decoder/My-Portfolio/new/main' // Replace with your repo
+            }
+        }
+
+        stage('Build Project') {
+            steps {
+                bat 'mvn clean compile'
+            }
+        }
+
+        stage('Run Tests') {
+            steps {
+                bat 'mvn test -DsuiteXmlFile=testng.xml'
+            }
+        }
+
+        stage('Publish Reports') {
+            steps {
+                publishHTML(target: [
+                    reportDir: 'target\\surefire-reports',
+                    reportFiles: 'emailable-report.html',
+                    reportName: 'TestNG Report'
+                ])
+            }
+        }
+    }
+
+    post {
+        always {
+            junit 'target\\surefire-reports\\*.xml'
+        }
+    }
+}
