@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/Herbert-Decoder/My-Portfolio/new/main' // Replace with your repo
+                git 'https://github.com/Herbert-Decoder/My-Portfolio.git' // Replace with your repo
             }
         }
 
