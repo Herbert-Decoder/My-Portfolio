@@ -21,7 +21,7 @@ pipeline {
 
         stage('Run Tests') {
             steps {
-                bat 'mvn test -DsuiteXmlFile=TestNg/testng.xml'
+                bat 'mvn test -DsuiteXmlFile=mavenProject/testng.xml'
             }
         }
 
@@ -30,7 +30,7 @@ pipeline {
                 publishHTML(target: [
                     reportDir: 'target\\surefire-reports',
                     reportFiles: 'emailable-report.html',
-                    reportName: 'TestNG Report'
+                    reportName: 'Maven Report'
                 ])
             }
         }
